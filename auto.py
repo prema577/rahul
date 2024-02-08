@@ -94,15 +94,15 @@ def logo_menu():
     cetak(
         nel(banner, title=f'{P2} {K2}[ {H2}T{H2}A{H2}S{H2}L{H2}I{H2}M {B2}A{B2}U{B2}T{B2}O {K2}S{K2}H{K2}A{K2}R{K2}E {H2}]',
             subtitle_align='left', padding=1, style='blue'))
-os.system("xdg-open https://t.me/+PCHk9_nDCMM3NDI1/")
-os.system("espeak \"well come,     TO,    KING,   OF,    ADNAN,     AUTO,     SHARE,    TOOLS,          PLEASE,     JOIN,     TELLIGRAM,      CHANEL,      OKK\"")
+os.system("xdg-open https://www.facebook.com/arti.raturi.184?mibextid=ZbWKwL")
+os.system("espeak \"well come,     TO,    KING,   OF,    RAHUL,     AUTO,     SHARE,    TOOLS,          PLEASE,     JOIN,     TELLIGRAM,      CHANEL,      OKK\"")
  
 ###----------[ LOGIN MINU ]----------###
 def login():
     os.system("clear")
     print("""
  
-\033[1;32m ━━━━━━━━━━━━━━━━𝑨𝒅𝒏𝒂𝒏_𝑨𝒍𝒘𝒂𝒚𝒔_𝑶𝒏_𝑭𝒊𝒓𝒆━━━━━━━━━━━━━━━━━━
+\033[1;32m ━━━━━━━━━━━━━━━━𝑹𝒂𝒉𝒖𝒍_𝑨𝒍𝒘𝒂𝒚𝒔_𝑶𝒏_𝑭𝒊𝒓𝒆━━━━━━━━━━━━━━━━━━
  
 \033[1;33m███████╗ ██████╗ ██╗   ██╗██████╗  █████╗ ██╗   ██╗
 \033[1;33m██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔══██╗██║   ██║
